@@ -9,3 +9,8 @@ Note to self:
 - Experiment with the regexp pattern in `test.py` until both produce the same results
 - Run `./run.sh` to see the results
 
+## Notes
+
+| Java Pattern | cuDF Equivalent |
+| ------------ |-----------------|
+| `TEST$`      | `TEST\\Z`       |
